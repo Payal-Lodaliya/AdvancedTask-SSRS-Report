@@ -1,0 +1,30 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31911.196
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{F14B399A-7131-4C87-9E4B-1186C45EF12D}") = "AdvancedTaskReport Sprint 3", "AdvancedTaskReport Sprint 3\AdvancedTaskReport Sprint 3.rptproj", "{BE00D163-044E-4684-A071-EFCA14844FA1}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Default = Debug|Default
+		DebugLocal|Default = DebugLocal|Default
+		Release|Default = Release|Default
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{BE00D163-044E-4684-A071-EFCA14844FA1}.Debug|Default.ActiveCfg = Debug
+		{BE00D163-044E-4684-A071-EFCA14844FA1}.Debug|Default.Build.0 = Debug
+		{BE00D163-044E-4684-A071-EFCA14844FA1}.Debug|Default.Deploy.0 = Debug
+		{BE00D163-044E-4684-A071-EFCA14844FA1}.DebugLocal|Default.ActiveCfg = DebugLocal
+		{BE00D163-044E-4684-A071-EFCA14844FA1}.DebugLocal|Default.Build.0 = DebugLocal
+		{BE00D163-044E-4684-A071-EFCA14844FA1}.Release|Default.ActiveCfg = Release
+		{BE00D163-044E-4684-A071-EFCA14844FA1}.Release|Default.Build.0 = Release
+		{BE00D163-044E-4684-A071-EFCA14844FA1}.Release|Default.Deploy.0 = Release
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {3DA6D0C3-6609-43BD-BD90-962752358344}
+	EndGlobalSection
+EndGlobal
